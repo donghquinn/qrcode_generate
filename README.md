@@ -1,7 +1,3 @@
-
-
-<img src="sample.png" width="auto" height="auto"/>
-
 # qrcode_generate
 
 ## Languages
@@ -28,3 +24,7 @@
 - Design (Layout, Styles, etc)
 - Create QR Code of Image File.
 - QR Code Styles
+
+
+<img src="sample.png" width="auto" height="auto"/>
+
