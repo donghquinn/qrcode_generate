@@ -1,6 +1,6 @@
 
 
-<img src="sample.png" width="150" height="150"/>
+<img src="sample.png" width="500" height="500"/>
 
 # qrcode_generate
 
