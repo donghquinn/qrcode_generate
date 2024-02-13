@@ -1,6 +1,9 @@
 # qrcode_generate
 
+```
 <img src={sample.png}/>
+```
+
 ## Languages
 
 - Golang: Backend
