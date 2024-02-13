@@ -1,8 +1,8 @@
+
+
+<img src="sample.png" width="150" height="150"/>
+
 # qrcode_generate
-
-
-<img src="sample.png"/>
-
 
 ## Languages
 
